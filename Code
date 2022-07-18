@@ -12,14 +12,14 @@
       </td>
       <td> India
       </td>
-      <td> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" alt="Indian Flag">
+      <td> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" alt="Indian Flag" style="width:500px;height:600px;">
       </td>
     <tr>
       <td> 2.
       </td>
       <td> USA
       </td> 
-      <td> <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag">
+      <td> <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag"style="width:500px;height:600px;">
       </td>
     </tr>
     <tr>
@@ -27,7 +27,7 @@
       </td>
       <td> Japan
       </td>
-      <td> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" alt="Japan Flag">
+      <td> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" alt="Japan Flag" style="width:500px;height:600px;">
       </td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@
       </td>
       <td> China
       </td>
-      <td> <img src="https://cdn.britannica.com/90/7490-004-BAD4AA72/Flag-China.jpg" alt = "China Flag">
+      <td> <img src="https://cdn.britannica.com/90/7490-004-BAD4AA72/Flag-China.jpg" alt = "China Flag" style="width:500px;height:600px;">
       </td>
     </tr>
   </table>
